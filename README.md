@@ -43,7 +43,7 @@
 - 📱 Expand into **React Native** for mobile development
 - 🎨 Enhance **UI/UX design** skills
 
-📫 **Reach me at:** [nguyentannghi.work@gmail.com](mailto:nguyentannghi.work@gmail.com)
+📫 **Reach me at:** [nguyentannghi5722@gmail.com](mailto:nguyentannghi5722@gmail.com)
 
 ---
 
@@ -171,7 +171,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Let's Connect!
 
 <p>
-<a href="mailto:nguyentannghi.work@gmail.com">
+<a href="mailto:nguyentannghi5722@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Gmail"/>
 </a>
 <a href="https://github.com/NguyenTanNghi">
@@ -180,10 +180,10 @@
 <a href="https://www.linkedin.com/in/nguyentannghi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.facebook.com/nguyentannghi">
+<a href="[https://www.facebook.com/nguyentannghi](https://www.facebook.com/tannghi.nguyen.750)">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://www.instagram.com/nguyentannghi">
+<a href="[https://www.instagram.com/nguyentannghi](https://www.instagram.com/tnghi2502/)">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>

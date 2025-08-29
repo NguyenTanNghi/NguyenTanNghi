@@ -102,37 +102,122 @@
 
 ### 📊 Learning Journey & Progress
 
+---
+
+<div align="center">
+
+### 🌟 Learning Journey & Expertise
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
-<td>
+<td align="center" width="50%" style="border: none;">
 
-**Full-Stack Development**
-<img src="https://progress-bar.dev/100/?scale=100&title=Mastered&width=300&color=00ff00" />
+<div align="center">
 
-**MERN Stack**
-<img src="https://progress-bar.dev/95/?scale=100&title=Advanced&width=300&color=0066ff" />
+### 💻 **Full-Stack Development**
+<img src="https://d2ms8rpfqc4h24.cloudfront.net/Guide_to_Full_Stack_Development_000eb0b2d0.jpg" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 245, 255, 0.3);" />
 
-**Cloud Computing (AWS)**
-<img src="https://progress-bar.dev/70/?scale=100&title=Learning&width=300&color=ff9900" />
+<img src="https://geps.dev/progress/100?dangerColor=ff1744&warningColor=ff9500&successColor=00ff5f&scale=100&width=300" />
+
+🎯 **Expert Level** | *Building scalable web applications*
+
+---
+
+### 🚀 **MERN Stack**
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231110115359/Roadmap-to-Mern-stack-developer-copy-(3).webp" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 102, 255, 0.3);" />
+
+<img src="https://geps.dev/progress/95?dangerColor=ff1744&warningColor=ff9500&successColor=0066ff&scale=100&width=300" />
+
+🔥 **Advanced** | *MongoDB • Express • React • Node.js*
+
+---
+
+### ☁️ **Cloud Computing (AWS)**
+<img src="https://www.device42.com/blog/wp-content/uploads/2023/03/14_01edge-cloud-computing-900x600.jpg" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 153, 0, 0.3);" />
+
+<img src="https://geps.dev/progress/70?dangerColor=ff1744&warningColor=ff9500&successColor=00ff5f&scale=100&width=300" />
+
+📚 **Learning** | *AWS Solutions Architect*
+
+</div>
 
 </td>
-<td>
+<td align="center" width="50%" style="border: none;">
 
-**Mobile Development (React Native)**
-<img src="https://progress-bar.dev/65/?scale=100&title=Learning&width=300&color=ff6600" />
+<div align="center">
 
-**Data Structures & Algorithms**
-<img src="https://progress-bar.dev/90/?scale=100&title=Advanced&width=300&color=9900ff" />
+### 📱 **Mobile Development (React Native)**
+<img src="https://arhamtechnosoft.com/wp-content/uploads/2023/08/Top-React-Native-App-Development-Company.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 102, 0, 0.3);" />
 
-**System Design**
-<img src="https://progress-bar.dev/60/?scale=100&title=Learning&width=300&color=ff0066" />
+<img src="https://geps.dev/progress/65?dangerColor=ff1744&warningColor=ff6600&successColor=00ff5f&scale=100&width=300" />
+
+🌱 **Learning** | *Cross-platform mobile apps*
+
+---
+
+### 🧮 **Data Structures & Algorithms**
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1753195703148/03e55da6-8391-4f8a-9493-036abd0518d9.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(153, 0, 255, 0.3);" />
+
+<img src="https://geps.dev/progress/90?dangerColor=ff1744&warningColor=ff9500&successColor=9900ff&scale=100&width=300" />
+
+⚡ **Advanced** | *Problem solving & Optimization*
+
+---
+
+### 🏗️ **System Design**
+<img src="https://i.ytimg.com/vi/F2FmTdLtb_4/maxresdefault.jpg" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 0, 102, 0.3);" />
+
+<img src="https://geps.dev/progress/60?dangerColor=ff0066&warningColor=ff9500&successColor=00ff5f&scale=100&width=300" />
+
+🎓 **Learning** | *Scalable Architecture Patterns*
+
+</div>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 💫 Tech Stack Summary
+
+```mermaid
+graph TD
+    A[🎯 Full-Stack Developer] --> B[🎨 Frontend]
+    A --> C[⚙️ Backend] 
+    A --> D[🗄️ Database]
+    A --> E[☁️ Cloud]
+    
+    B --> B1[React ⚛️]
+    B --> B2[HTML5/CSS3 🎨]
+    B --> B3[Bootstrap/Tailwind 💎]
+    
+    C --> C1[Node.js 🟢]
+    C --> C2[Express.js ⚡]
+    C --> C3[RESTful APIs 🔗]
+    
+    D --> D1[MongoDB 🍃]
+    D --> D2[MySQL 🐬]
+    D --> D3[Firebase 🔥]
+    
+    E --> E1[AWS ☁️]
+    E --> E2[Vercel 🚀]
+    E --> E3[Docker 🐳]
+    
+    style A fill:#0D1117,stroke:#00F5FF,stroke-width:3px,color:#fff
+    style B fill:#1a1a2e,stroke:#ff6b00,stroke-width:2px,color:#fff
+    style C fill:#1a1a2e,stroke:#00ff5f,stroke-width:2px,color:#fff
+    style D fill:#1a1a2e,stroke:#ff1744,stroke-width:2px,color:#fff
+    style E fill:#1a1a2e,stroke:#9900ff,stroke-width:2px,color:#fff
+```
+
+</div>
 ---
 
 <div align="center">

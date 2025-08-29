@@ -180,10 +180,10 @@
 <a href="https://www.linkedin.com/in/nguyentannghi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="[https://www.facebook.com/nguyentannghi](https://www.facebook.com/tannghi.nguyen.750)">
+<a href="https://www.facebook.com/tannghi.nguyen.750">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="[https://www.instagram.com/nguyentannghi](https://www.instagram.com/tnghi2502/)">
+<a href="https://www.instagram.com/tnghi2502/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>

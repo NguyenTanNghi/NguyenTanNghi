@@ -100,7 +100,6 @@
 
 <div align="center">
 
-### 📊 Learning Journey & Progress
 
 ---
 

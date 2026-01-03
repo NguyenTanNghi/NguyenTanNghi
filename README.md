@@ -287,6 +287,10 @@ graph TD
 <br>
 </details>
 
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenTanNghi&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTanNghi&langs_count=8&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+</p>
 <details>
 <summary><b>🔥 Contribution Streak</b></summary>
 <br>

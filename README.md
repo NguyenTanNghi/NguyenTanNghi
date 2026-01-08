@@ -293,14 +293,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTanNghi&theme=tokyonight" width="98%"/>
 </a>
 
-### 🏆 GitHub Achievements
-
-<a href="https://github.com/NguyenTanNghi">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenTanNghi&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="98%"/>
-</a>
-
-
-
 ---
 
 <div align="center">
